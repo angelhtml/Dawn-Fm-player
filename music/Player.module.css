@@ -1,0 +1,100 @@
+.playico{
+    font-size: 2.5rem;
+    color: rgb(255, 255, 255);
+    filter: drop-shadow( 0 1px 1px #0ff);
+    margin-top: .5rem;
+    cursor: pointer;
+}
+.navigation{
+    display: flex;
+    width: 100%;
+    height: 3.8rem;
+    position: fixed;
+    background-color: black;
+    bottom: 0%;
+    /*
+    border-top: 3px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to left, #0ff, #f0f);*/
+    animation-name: animationGradient;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+.box1,
+.box2,
+.box3{
+    flex: 33%;
+}
+.dawnlogo{
+    width: 70px;
+    position: absolute;
+    right: 0%;
+}
+.mainsection{
+  color: rgb(255, 255, 255, 0.4);
+  background-color: rgba(255, 255, 255, 0);
+  z-index: 10000;
+  backdrop-filter: blur(5px);  /*blur effect*/
+  position: absolute;
+  border-radius: 5px;
+  width: 90%;
+  margin-top: 3rem;
+  margin-left: 5%;
+  border: 1.5px solid rgb(255, 255, 255, 0.18);
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+.title{
+  color: white;
+  font-size: 1.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 10px;
+}
+.bar{
+  transition: all 1s;
+  border-radius: 30px;
+  animation-name: animationGradientbar;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+}
+@keyframes animationGradientbar {
+  0% {
+    background-position: 0% 50%;
+    box-shadow: 0 3px 10px 1px #f700ff;
+    background-color: #f700ff;
+  }
+  
+  50% {
+    background-position: 50% 100%;
+    box-shadow: 0 3px 10px 1px #00ff0d;
+    background-color: #00ff0d;
+  }
+  100% {
+    background-position: 100% 0%;
+    box-shadow: 0 3px 10px 1px #00ffff;
+    background-color: #00ffff;
+  }
+}
+@keyframes animationGradient {
+    0% {
+      background-position: 0% 50%;
+      box-shadow: 0 0px 10px 5px #f700ff;
+    }
+    
+    50% {
+      background-position: 50% 100%;
+      box-shadow: 0 0px 10px 5px #00ff0d;
+    }
+    100% {
+      background-position: 100% 0%;
+      box-shadow: 0 0px 10px 5px #00ffff;
+    }
+  }
+.xo{
+    filter: drop-shadow( 0 1px 1px rgb(255, 255, 255));
+    width: 20px;
+}  

@@ -1,0 +1,60 @@
+
+html,
+body {
+  margin: 0;
+    /*font-size: calc(16px + (26 - 14) * ((100vw - 200px) / (1980 - 200)));*/
+color: #000000 !important;
+color: white !important;
+background-color: black !important;
+position: relative;
+}
+/*This cause the division content
+        to be displayed from right to left */
+        .Flipped{
+          direction: rtl;
+      }
+   
+      /* Designing for scroll-bar */
+      ::-webkit-scrollbar {
+          width: 6px;
+      }
+   
+      /* Track */
+      ::-webkit-scrollbar-track {
+          background: gainsboro;
+          border-radius: 5px;
+      }
+   
+      /* Handle */
+      ::-webkit-scrollbar-thumb {
+          background: dodgerblue;
+          border-radius: 5px;
+      }
+   
+      /* Handle on hover */
+      ::-webkit-scrollbar-thumb:hover {
+          background: rgb(27, 119, 211);
+      }
+      .video{
+        filter: brightness(1);
+        object-fit: cover;
+    }
+    
+    @media (max-width: 768px){
+    .VideoBg-module_video__2IPmN {
+         display: flex !important; 
+    }
+    .VideoBg-module_wrapper__3FlD_{
+        right: 0% !important;
+    }
+    }
+    @media (max-width: 450px){
+        .VideoBg-module_wrapper__3FlD_{
+            right: -50% !important;
+        }
+    }      
+
+.marquee{
+  font-size: 1.1rem;
+  font-family: monospace;
+}    
