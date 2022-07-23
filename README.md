@@ -16,7 +16,7 @@
 <u>📌Next.js</u><br />
 <u>📌chakra-ui/react</u><br />
 
-<p>i create this audio player with using hooks (useState, useRef, useEffect) for play and pause audios</p>
+<p>I create this audio player with using hooks (useState, useRef, useEffect) for play and pause audio files</p>
 
 <h1>Demo</h1>
 
