@@ -28,4 +28,3 @@
 
 <p>you can see my components(Player Layout and etc ...) in music folder</p>
 
-
