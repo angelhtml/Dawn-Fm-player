@@ -27,5 +27,4 @@
   <img src="https://iili.io/kLzg5X.png" alt="XO"/>
 </p>
 
-<p>you can see my components(Player Layout and etc ...) in music folder</p>
-
+<p>you can see all components(Player Layout and etc ...) in music folder</p>
