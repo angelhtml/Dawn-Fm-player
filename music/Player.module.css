@@ -61,6 +61,21 @@
   animation-direction: alternate;
   animation-timing-function: linear;
 }
+@keyframes animationGradient {
+    0% {
+      background-position: 0% 50%;
+      box-shadow: 0 0px 10px 5px #f700ff;
+    }
+    
+    50% {
+      background-position: 50% 100%;
+      box-shadow: 0 0px 10px 5px #00ff0d;
+    }
+    100% {
+      background-position: 100% 0%;
+      box-shadow: 0 0px 10px 5px #00ffff;
+    }
+  }
 @keyframes animationGradientbar {
   0% {
     background-position: 0% 50%;
@@ -79,21 +94,6 @@
     background-color: #00ffff;
   }
 }
-@keyframes animationGradient {
-    0% {
-      background-position: 0% 50%;
-      box-shadow: 0 0px 10px 5px #f700ff;
-    }
-    
-    50% {
-      background-position: 50% 100%;
-      box-shadow: 0 0px 10px 5px #00ff0d;
-    }
-    100% {
-      background-position: 100% 0%;
-      box-shadow: 0 0px 10px 5px #00ffff;
-    }
-  }
 .xo{
     filter: drop-shadow( 0 1px 1px rgb(255, 255, 255));
     width: 20px;
