@@ -1,7 +1,7 @@
 # Dawn Fm player
 
 <p align="center">
-  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="img"/>
+  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="xo code style"/>
 </p>
 
 <p align="center">
