@@ -1,7 +1,7 @@
 # Dawn Fm player
 
 <p align="center">
-  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="xo code style"/>
+  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="Angel code style"/>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/code_style-XO-ff0000.svg" alt="dawn fm"/>
+  <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="dawn fm"/>
 </p>
 
 <h1>📕Libraries</h1>
