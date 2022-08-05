@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="dawn fm"/>
 </p>
 
-<h1>📕Libraries</h1>
-<u>📌Next.js</u><br />
-<u>📌chakra-ui/react</u><br />
+<h1>📄Libraries</h1>
+<u>✔ Next.js</u><br />
+<u>✔ chakra-ui/react</u><br />
 
 <p>I create this audio player with using hooks (useState, useRef, useEffect) for play and pause audio files</p>
 
@@ -28,5 +28,3 @@
 </p>
 
 <p>you can see all components(Player Layout and etc ...) in music folder</p>
-
-
