@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="dawn fm"/>
 </p>
 
-<h1>📄Libraries</h1>
+<h1>📗Libraries</h1>
 <u>✔ Next.js</u><br />
 <u>✔ chakra-ui/react</u><br />
 
