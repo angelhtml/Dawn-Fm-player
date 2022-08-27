@@ -23,6 +23,7 @@
 <a href="https://dawn-fm.netlify.app/">https://dawn-fm.netlify.app/</a>
 
 <p align="center">
+  <img src='https://iili.io/4xBBbS.gif' alt="Dawn fm" width='100%'/>
   <img src="https://iili.io/S8ZR44.webp" alt="dawn fm"/><hr />
   <img src="https://iili.io/kLzg5X.png" alt="dawn fm"/>
 </p>
