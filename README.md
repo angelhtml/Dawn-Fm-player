@@ -12,6 +12,11 @@
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="dawn fm"/>
 </p>
 
+<p>Dawn fm player created by Angel Code Style</p>
+<p>
+You are now listening to 103.5 Dawn Fm, You've been in the dark for way too long, It's time to walk into the light And accept your fate with open arms.
+</p>
+
 <h1>📕Libraries</h1>
 <u>✔ Next.js</u><br />
 <u>✔ chakra-ui/react</u><br />
