@@ -1,8 +1,8 @@
-import { useState, useRef, useEffect } from 'react'
-import { songsdata } from '../music/music'
-import MyPlayer from '../music/myplayer'
+import { useState, useRef, useEffect } from 'react';
+import { songsdata } from '../music/music';
+import MyPlayer from '../music/myplayer';
 import VideoBg from "reactjs-videobg";
-import Navbar from '../music/Navbar'
+import Navbar from '../music/Navbar';
 
 export default function App(){
     const[songs, setSongs] =  useState(songsdata)
