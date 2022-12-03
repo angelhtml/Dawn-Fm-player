@@ -21,6 +21,7 @@ You are now listening to 103.5 Dawn Fm, You've been in the dark for way too long
 <u>✔ Next.js</u><br />
 <u>✔ chakra-ui/react</u><br />
 
+<p>Music streaming web app</p>
 <p>I create this audio player with using hooks (useState, useRef, useEffect) for play and pause audio files</p>
 
 <h1>Demo</h1>
