@@ -36,4 +36,3 @@ You are now listening to 103.5 Dawn Fm, You've been in the dark for way too long
 
 <p>you can see all components(Player Layout and etc ...) in music folder</p>
 
-
